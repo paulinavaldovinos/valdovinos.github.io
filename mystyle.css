@@ -1,0 +1,16 @@
+/*
+color scheme for this website:
+#80ff80
+#ffffff
+#009933
+#66ff66
+*/
+body {
+  background-color:#ffffff;
+}
+h1 {
+  color: #66ff66;
+}
+p {
+  color: #80ff80;
+}
