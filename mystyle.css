@@ -57,3 +57,8 @@ h1,h2,h3 {
   p.summary {
   	background-color: #E6EBF5;
   }
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10em;
+}
