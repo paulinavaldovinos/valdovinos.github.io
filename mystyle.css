@@ -53,7 +53,6 @@ h1,h2,h3 {
   }
  div.review {
     background-color: #E6EBF5; /* pale blue */
-    width: 50%;
     font-size: 150%;
   }
   p.summary {
@@ -66,3 +65,10 @@ ul {
   padding: 0;
   list-style-type: none;
 }
+  p#alert {
+    color: black;
+    font-weight: bold;
+    background: #FFFF66; /* yellow */
+    border: 2px solid black;
+    padding: 1em;
+  }
