@@ -17,8 +17,8 @@ h1 {
     border-width: 10px;
     border-style: solid;
     border-color: #ccffcc;
-    margin-right: 10px !important;
-   align-content: center;
+    margin: 10px !important;
+    text-align: center;
 }
 p {
   color: #000000;
@@ -35,7 +35,7 @@ h2 {
     border-style: solid;
     border-color: #ccffcc;
     margin: 10px !important;
-   align-content: center;
+    text-align: center;
 }
 h3 {
   color: #009933;
@@ -44,7 +44,7 @@ h3 {
     border-style: solid;
     border-color: #ccffcc;
     margin: 10px !important;
-   align-content: center;
+    text-align: center;
 }
 h1,h2,h3 {
     font-family: Cambria,Palatino,serif;
