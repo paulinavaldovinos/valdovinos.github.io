@@ -16,12 +16,27 @@ h1 {
 }
 p {
   color: #000000;
+   padding: 1em;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    margin: 10px !important;
 }
 h2 {
   color: #009933;
+   padding: 1em;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    margin: 10px !important;
 }
 h3 {
   color: #009933;
+   padding: 1em;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    margin: 10px !important;
 }
 h1,h2,h3 {
     font-family: Cambria,Palatino,serif;
