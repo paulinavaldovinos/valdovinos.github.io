@@ -51,3 +51,11 @@ h3 {
 h1,h2,h3 {
     font-family: Cambria,Palatino,serif;
   }
+ div.review {
+    background-color: #E6EBF5; /* pale blue */
+    border: 1px solid #003399; /* dark blue */
+  }
+  p.summary {
+  	background-color: #E6EBF5;
+    border: 1px solid #003399;;
+  }
