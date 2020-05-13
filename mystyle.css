@@ -8,6 +8,8 @@ color scheme for this website:
 body {
   background-color:#ffffff;
   font-family: Georgia,Garamond,serif;
+     margin-left:10%
+     margin-right:10%
 }
 h1 {
   color: #66ff66;
