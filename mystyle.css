@@ -72,3 +72,11 @@ ul {
     border: 2px solid black;
     padding: 1em;
   }
+  a {
+    color: black;
+    background-color: white;
+  }
+  a:hover, a:focus {
+    color: black;
+    background-color: red;
+  }
