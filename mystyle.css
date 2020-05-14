@@ -80,7 +80,7 @@ ul {
     color: black;
     background-color: #00ff00;
   }
-p#overview:: first-letter {
+  p#alert:: first-letter {
   font-size: large;
   font-style: ¨Apple Chancery¨, cursive
 }
