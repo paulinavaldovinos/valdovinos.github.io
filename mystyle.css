@@ -78,7 +78,7 @@ ul {
   }
   a:hover, a:focus {
     color: black;
-    background-color: red;
+    background-color: #00ff00;
   }
 p#overview:: first-letter {
   font-size: large;
