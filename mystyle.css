@@ -80,7 +80,7 @@ ul {
     color: black;
     background-color: #00ff00;
   }
-  p: first-letter {
+  main: first-letter {
   font-size: large;
   font-family: "Times New Roman", Times, serif;
   color: #134d00;
